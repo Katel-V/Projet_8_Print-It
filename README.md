@@ -5,4 +5,4 @@
 <p>Rendre le site dynamique en créant un carrousel avec du JavaScript</p>
 <br>
 <h2>Le projet :</h2>
-<img src="https://katel-v.github.io/Projet_8_Print-it/">
+<a href="https://katel-v.github.io/Projet_8_Print-it/">
